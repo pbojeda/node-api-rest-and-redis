@@ -41,7 +41,7 @@ Enjoy!
 * -- body: model (obligatorio), colour, price, summary, images, size, style (sólo permite: Casual, Alternative, Vintage)
 * DELETE /tshirt/:id - elimina una camiseta
     
-<h4> Importante: Arrancar mongoDB en un terminal con el comando ./mongod
+<h4> Importante: Arrancar mongoDB en un terminal.
 
 <h3>Fase 2: 
 <p>
@@ -56,6 +56,6 @@ Enjoy!
     
 <h4> Importante: 
 <p>
-* tener arrancado MongoDB con el comando ./mongod
-* tener arrancado redis con el comando redis-server --port 16379 --bind 127.10.61.129
+* tener arrancado MongoDB en un terminal.
+* tener arrancado redis en otro terminal.
 * tener camisetas creadas a las que poder acceder
