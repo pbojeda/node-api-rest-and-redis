@@ -13,7 +13,7 @@ To run
 * $ server.js
 
 You can read a complete tutorial in 
-https://github.com/speakinbytes/node-api-rest-and-redis
+http://speakinbytes.com/2014/03/api-rest-con-node-js-express-mongodb-y-moongose-js/
 
 Enjoy!
 
